@@ -16,6 +16,7 @@ import PlaygroundSupport
 let encodedBitmap = getEncodedBitmapString()
 
 // I notice that...
+
 /*:
  Now, **remember to commit and push your work**.
  */

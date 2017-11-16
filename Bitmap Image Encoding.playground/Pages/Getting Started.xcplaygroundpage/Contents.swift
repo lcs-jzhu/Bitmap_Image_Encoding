@@ -16,7 +16,7 @@ import PlaygroundSupport
 let encodedBitmap = getEncodedBitmapString()
 
 // I notice that...
-
+// I notice that the value of the encoded string is changing every time.
 /*:
  Now, **remember to commit and push your work**.
  */
